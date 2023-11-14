@@ -1,1 +1,3 @@
 Just a text. I will use Visual Stuido Code tools for this file.
+New line of text
+Another line of text
